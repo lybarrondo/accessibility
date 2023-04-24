@@ -124,13 +124,13 @@ class NavigationContentGenerator {
         '</figure>'
       );
 
-    } else if (linkName == 'The Century&#39;s First Celebrities') {
+    } else if (linkName == "The Century's First Celebrities") {
       this.fillerTextSentences.push(
         '<figure id=”stop_09">',
         '<div tabindex="0"><img style="width:100%" src="stops/stop_09.jpg" alt="ALT_DESCRIPTION_GOES_HERE"></div>',
         '<div tabindex="0"><p>The Wright brothers&#39; invention of the airplane truly changed the world. Imagining what this new world would be like began as soon as the first airplanes took to the air.</p></div>',
         '<div tabindex="0"><p>The airplane quickly had meaning for everyone—from the crowds who flocked to aerial exhibitions of daring pilots, to the commercial and military potential of aviation, to the way human flight influenced culture, to the artistic expression it inspired.</p></div>',
-        '<a href="#home" onclick="return goToStop(`stop_08`)">Back</a> | <a href="#home" onclick="return goToStop(`stop_10`)">Next</a>',
+        '<a href="#home" onclick="return goToStop(`stop_09`)">Back</a> | <a href="#home" onclick="return goToStop(`stop_11`)">Next</a>',
         '</figure>'
       );
 
@@ -140,7 +140,7 @@ class NavigationContentGenerator {
         '<div tabindex="0"><img style="width:100%" src="stops/stop_10.jpg" alt="ALT_DESCRIPTION_GOES_HERE"></div>',
         '<div tabindex="0"><p>The Wright brothers saw the military as an obvious customer for their invention. Balloons had been used for observation during the American Civil War and in several late 19th-century European conflicts. The airplane offered a natural extension of these reconnaissance capabilities. Eventually, the military became a dominant market for aeronautical technology.</p></div>',
         '<div tabindex="0"><h3>Key objects:</h3><ul><li><a href="#home" onclick="return goToObject(`object_10`)">Wright Vertical Four-Cylinder Engine</a></li></ul></div>',
-        '<a href="#home" onclick="return goToStop(`stop_09`)">Back</a> | <a href="#home" onclick="return goToStop(`stop_12`)">Next</a>',
+        '<a href="#home" onclick="return goToStop(`stop_10`)">Back</a> | <a href="#home" onclick="return goToStop(`stop_12`)">Next</a>',
         '</figure>'
       );
 
@@ -151,7 +151,7 @@ class NavigationContentGenerator {
         '<div tabindex="0"><p>The enduring image of the first flight, taken the instant Orville lifted the Flyer into the air for the first time, with Wilbur looking on, captured the “moment of invention” for all time. It is among the most famous photographs ever taken.</p></div>',
         '<div tabindex="0"><p>Orville aimed his camera at the end of the launching rail. He instructed local lifesaving crewman John T. Daniels to snap the shutter as the airplane left the rail. It was the first time Daniels had ever operated a camera.</p></div>',
         '<div tabindex="0"><h3>Key objects:</h3><ul><li><a href="#home" onclick="return goToObject(`object_11`)">Korona Camera</a></li><li>"Moment of Invention" photo</li></ul></div>',
-        '<a href="#home" onclick="return goToStop(`stop_10`)">Back</a> | <a href="#home" onclick="return goToStop(`stop_13`)">Next</a>',
+        '<a href="#home" onclick="return goToStop(`stop_11`)">Back</a> | <a href="#home" onclick="return goToStop(`stop_13`)">Next</a>',
         '</figure>'
       );
 
@@ -162,7 +162,7 @@ class NavigationContentGenerator {
         '<div tabindex="0"><p>More than a century after they invented the airplane, Wilbur and Orville Wright are still a part of our national cultural identity, and the Wright Flyer remains an icon of ingenuity and technical creativity. The world’s first airplane is not only the centerpiece of the National Air and Space Museum collection, but one of the signature artifacts in the entire Smithsonian Institution.</p></div>',
         '<div tabindex="0"><p>Of course, when the Wrights built and flew their 1903 Flyer, it was not a national treasure. To them it was a research tool in their path toward a practical airplane. Its transformation into a priceless piece of American heritage, displayed in the nation’s capital, took some interesting twists and turns.</p></div>',
         '<div tabindex="0"><h3>Key objects:</h3><ul><li><a href="#home" onclick="return goToObject(`object_12`)">Wood and Fabric, 1903 Wright Flyer, Apollo 11</a></li></ul></div>',
-        '<a href="#home" onclick="return goToStop(`stop_11`)">Back</a> | <a href="#home" onclick="return goToStop(`stop_14`)">Next</a>',
+        '<a href="#home" onclick="return goToStop(`stop_12`)">Back</a> | <a href="#home" onclick="return goToStop(`stop_14`)">Next</a>',
         '</figure>'
       );
 
@@ -172,7 +172,7 @@ class NavigationContentGenerator {
         '<div tabindex="0"><img style="width:100%" src="stops/stop_13.jpg" alt="ALT_DESCRIPTION_GOES_HERE"></div>',
         '<div tabindex="0"><p>The airplane&#39;s impact on the arts was immediate and immense. Artists, writers, and composers found powerful inspiration in aviation. For them the invention of the airplane was an aesthetic event, which they believed would have great influence on the new century&#39;s artistic, even moral, direction.</p></div>',
         '<div tabindex="0"><p>The early 20th century was an increasingly technological time, but more than any other technical marvel of the period, the airplane&#39;s impact was emotional. It produced utopian hopes as well as unsettling fears. The invention of the airplane coincided with the arrival of several of the 20th century’s defining artistic and intellectual movements. Flight was perhaps the ultimate signal that a new, modern age had begun.</p></div>',
-        '<a href="#home" onclick="return goToStop(`stop_12`)">Back</a> | <a href="#home" onclick="return goToStop(`stop_15`)">Next</a>',
+        '<a href="#home" onclick="return goToStop(`stop_13`)">Back</a> | <a href="#home" onclick="return goToStop(`stop_15`)">Next</a>',
         '</figure>'
       );
 
@@ -181,17 +181,17 @@ class NavigationContentGenerator {
         '<figure id=”stop_14">',
         '<div tabindex="0"><img style="width:100%" src="stops/stop_14.jpg" alt="ALT_DESCRIPTION_GOES_HERE"></div>',
         '<div tabindex="0"><p>Aviation captured the attention of many of the great writers of the day, who traveled to exhibitions, rode in airplanes, and wrote about their experiences. Italian poet and novelist Gabriele D&#39;Annunzio, Futurist movement founder and leader F. T. Marinetti, and novelist Franz Kafka were among the influential writers whose vision of the future was shaped by the airplane. For them, the power of flight was an irresistible theme.</p></div>',
-        '<a href="#home" onclick="return goToStop(`stop_13`)">Back</a> | <a href="#home" onclick="return goToStop(`stop_16`)">Next</a>',
+        '<a href="#home" onclick="return goToStop(`stop_14`)">Back</a> | <a href="#home" onclick="return goToStop(`stop_16`)">Next</a>',
         '</figure>'
       );
 
-    } else if (linkName == '"Isn&#34;t It Astonishing..."') {
+    } else if (linkName == `"Isn't It Astonishing..."`) {
       this.fillerTextSentences.push(
         '<figure id=”stop_15">',
         '<div tabindex="0"><img style="width:100%" src="stops/stop_15.jpg" alt="Large photographic mural of children in early 1900s pointing skyward at an airplane flying overhead. A quote reads "Isn&#39;t It Astonishing that all these secrets have been preserved for so many just so that we could discover them!!" - Orville Wright, 1903. On the opposite wall, a large photographic mural of drawings and measurements made by the Wright brothers during their work to develop the first succesful powered airplane."></div>',
         '<div tabindex="0"><p>"Isn&#39;t It Astonishing that all these secrets have been preserved for so many just so that we could discover them!!"</p></div>',
         '<div tabindex="0"><p>Orville Wright, June 7, 1903</p></div>',
-        '<a href="#home" onclick="return goToStop(`stop_14`)">Back</a>',
+        '<a href="#home" onclick="return goToStop(`stop_15`)">Back</a>',
         '</figure>'
       );
 
@@ -203,7 +203,7 @@ class NavigationContentGenerator {
         '<div tabindex="0"><p><i>Lent by The Henry Ford</i></p></div>',
         '<div tabindex="0"><p>Learn more about this object: <a href="https://airandspace.si.edu/collection-objects/lunar-landscape-1957/nasm_A19772550000" target="_blank">Wright Bicycle, St. Clair</a></p></div>',
         '<a href="#home" onclick="return goToObject(`object_02`)">Next</a>',
-		'</figure>'
+        '</figure>'
       );
     } else if (linkName == '1899 Wright Kite') {
       this.fillerTextSentences.push(
@@ -220,7 +220,7 @@ class NavigationContentGenerator {
         '<div tabindex="0"><p><strong>Weight:</strong> 52 lb (24 kg)</p></div>',
         '<div tabindex="0"><p>Learn more about this object: <a href="https://airandspace.si.edu/collection-objects/1899-wright-kite-reproduction/nasm_I20031236002" target="_blank">1899 Wright Kite (Reproduction)</a></p></div>',
         '<a href="#home" onclick="return goToObject(`object_01`)">Back</a> | <a href="#home" onclick="return goToObject(`object_03`)">Next</a>',
-		'</figure>'
+        '</figure>'
       );
     } else if (linkName == '1900 Wright Glider') {
       this.fillerTextSentences.push(
@@ -232,7 +232,7 @@ class NavigationContentGenerator {
         '<div tabindex="0"><p><i>Gift of Ken Hyde, The Wright Experience, Warrenton, VA</i></p></div>',
         '<div tabindex="0"><p>Learn more about this object: <a href="https://airandspace.si.edu/collection-objects/1900-wright-glider-reproduction/nasm_A20050452000" target="_blank">1900 Wright Glider (reproduction)</a></p></div>',
         '<a href="#home" onclick="return goToObject(`object_02`)">Back</a> | <a href="#home" onclick="return goToObject(`object_04`)">Next</a>',
-		'</figure>'
+        '</figure>'
       );
     } else if (linkName == '1902 Wright Glider') {
       this.fillerTextSentences.push(
@@ -249,7 +249,7 @@ class NavigationContentGenerator {
         '<div tabindex="0"><p><strong>Weight:</strong> 117 lb (53 kg)</p></div>',
         '<div tabindex="0"><p>Learn more about this object: <a href="https://airandspace.si.edu/collection-objects/1902-wright-glider-reproduction/nasm_I20031236001" target="_blank">1902 Wright Glider (reproduction)</a></p></div>',
         '<a href="#home" onclick="return goToObject(`object_03`)">Back</a> | <a href="#home" onclick="return goToObject(`object_05`)">Next</a>',
-		'</figure>'
+        '</figure>'
       );
     } else if (linkName == '1903 Wright Flyer') {
       this.fillerTextSentences.push(
@@ -268,7 +268,7 @@ class NavigationContentGenerator {
         '<div tabindex="0"><p><strong>Engine:</strong> Horizontal 4-cylinder, water-cooled, 12 hp (9 kW)</p></div>',
         '<div tabindex="0"><p>Learn more about this object: <a href="https://airandspace.si.edu/collection-objects/1903-wright-flyer/nasm_A19610048000" target="_blank">1903 Wright Flyer</a></p></div>',
         '<a href="#home" onclick="return goToObject(`object_04`)">Back</a> | <a href="#home" onclick="return goToObject(`object_06`)">Next</a>',
-		'</figure>'
+        '</figure>'
       );
     } else if (linkName == 'Original Propeller, Wright Flyer') {
       this.fillerTextSentences.push(
@@ -279,7 +279,7 @@ class NavigationContentGenerator {
         '<div tabindex="0"><p><i>Gift of Ivonette Wright Miller and Harold S. Miller</i></p></div>',
         '<div tabindex="0"><p>Learn more about this object: <a href="https://airandspace.si.edu/collection-objects/wright-brothers-propeller-fixed-pitch-1903-wright-flyer/nasm_A19830381000" target="_blank">Original Propeller, Wright Flyer</a></p></div>',
         '<a href="#home" onclick="return goToObject(`object_05`)">Back</a> | <a href="#home" onclick="return goToObject(`object_07`)">Next</a>',
-		'</figure>'
+        '</figure>'
       );
     } else if (linkName == 'Original Fabric, Wright Flyer') {
       this.fillerTextSentences.push(
@@ -291,7 +291,7 @@ class NavigationContentGenerator {
         '<div tabindex="0"><p><i>Gift of Marianne Wright Hudec</i></p></div>',
         '<div tabindex="0"><p>Learn more about this object: <a href="https://airandspace.si.edu/collection-objects/fabric-aircraft-1903-wright-flyer/nasm_A20090031000" target="_blank">Original Fabric, Wright Flyer</a></p></div>',
         '<a href="#home" onclick="return goToObject(`object_06`)">Back</a> | <a href="#home" onclick="return goToObject(`object_08`)">Next</a>',
-		'</figure>'
+        '</figure>'
       );
     } else if (linkName == 'Stopwatch') {
       this.fillerTextSentences.push(
@@ -302,7 +302,7 @@ class NavigationContentGenerator {
         '<div tabindex="0"><p><i>Gift of the Institute of Aeronautical Sciences</i></p></div>',
         '<div tabindex="0"><p>Learn more about this object: <a href="https://airandspace.si.edu/collection-media/NASM-A19640054000-NASM2018-00331" target="_blank">Stopwatch, Wright brothers</a></p></div>',
         '<a href="#home" onclick="return goToObject(`object_07`)">Back</a> | <a href="#home" onclick="return goToObject(`object_09`)">Next</a>',
-		'</figure>'
+        '</figure>'
       );
     } else if (linkName == 'Telegraph Key') {
       this.fillerTextSentences.push(
@@ -314,7 +314,7 @@ class NavigationContentGenerator {
         '<div tabindex="0">There were two errors in transmission. The flight was actually 59 seconds in duration and Orville&#34;s name was misspelled.</p></div>',
         '<div tabindex="0"><p>Learn more about this object: <a href="https://airandspace.si.edu/collection-media/NASM-1A0A0B9982822_001" target="_blank">Telegraph Key</a></p></div>',
         '<a href="#home" onclick="return goToObject(`object_08`)">Back</a> | <a href="#home" onclick="return goToObject(`object_10`)">Next</a>',
-		'</figure>'
+        '</figure>'
       );
     } else if (linkName == 'Wright Vertical Four-Cylinder Engine') {
       this.fillerTextSentences.push(
@@ -325,7 +325,7 @@ class NavigationContentGenerator {
         '<div tabindex="0"><p><i>Gift of the Family of James M. H. Jacobs</i></p></div>',
         '<div tabindex="0"><p>Learn more about this object: <a href="https://airandspace.si.edu/collection-objects/wright-vertical-4-line-4-engine/nasm_A19620037000" target="_blank">Wright Vertical Four-Cylinder Engine</a></p></div>',
         '<a href="#home" onclick="return goToObject(`object_09`)">Back</a> | <a href="#home" onclick="return goToObject(`object_11`)">Next</a>',
-		'</figure>'
+        '</figure>'
       );
     } else if (linkName == 'Korona Camera') {
       this.fillerTextSentences.push(
@@ -336,7 +336,7 @@ class NavigationContentGenerator {
         '<div tabindex="0"><p><i>Lent by Peter L. Jakab</i></p></div>',
         '<div tabindex="0"><p>Learn more about this object: <a href="https://airandspace.si.edu/collection-objects/camera-korona/nasm_I20031237001" target="_blank">Korona Camera</a></p></div>',
         '<a href="#home" onclick="return goToObject(`object_10`)">Back</a> | <a href="#home" onclick="return goToObject(`object_12`)">Next</a>',
-		'</figure>'
+        '</figure>'
       );
     } else if (linkName == 'Wood and Fabric, 1903 Wright Flyer, Apollo 11') {
       this.fillerTextSentences.push(
@@ -348,7 +348,7 @@ class NavigationContentGenerator {
         '<div tabindex="0"><p><i>Gift of the U.S. Air Force Museum</i></p></div>',
         '<div tabindex="0"><p>Learn more about this object: <a href="https://airandspace.si.edu/collection-objects/wood-and-fabric-1903-wright-flyer-apollo11/nasm_A19721288000" target="_blank">Wood and Fabric, 1903 Wright Flyer, Apollo 11</a></p></div>',
         '<a href="#home" onclick="return goToObject(`object_11`)">Back</a>',
-		'</figure>'
+        '</figure>'
       );
     }
 
